@@ -1,0 +1,53 @@
+[
+    {
+        "titulo": "El Estanciero",
+        "editorial": "Ruibal",
+        "año": 1935,
+        "jugadoresMin": 2,
+        "jugadoresMax": 6,
+        "categorias": [
+            "Estrategia",
+            "Economía",
+            "Tablero"
+        ],
+        "disponible": true
+    },
+    {
+        "titulo": "La Generala",
+        "editorial": "Ruibal",
+        "año": 1950,
+        "jugadoresMin": 2,
+        "jugadoresMax": 6,
+        "categorias": [
+            "Dados",
+            "Azar"
+        ],
+        "disponible": true
+    },
+    {
+        "titulo": "El Truco",
+        "editorial": "Tradicional (baraja española)",
+        "año": 1800,
+        "jugadoresMin": 2,
+        "jugadoresMax": 6,
+        "categorias": [
+            "Cartas",
+            "Engaño",
+            "Social"
+        ],
+        "disponible": true
+    },
+    {
+        "titulo": "T.E.G. (Juego de Estrategia)",
+        "editorial": "Yetem",
+        "año": 1978,
+        "jugadoresMin": 2,
+        "jugadoresMax": 6,
+        "categorias": [
+            "Estrategia",
+            "Conquista",
+            "Tablero"
+        ],
+        "disponible": true
+    }
+]
