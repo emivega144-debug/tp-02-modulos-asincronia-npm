@@ -1,0 +1,43 @@
+
+CATALOGO DE JUEGOS DE MESA
+
+===========================
+Cantidad de juegos: 4
+
+ 
+1. 
+Titulo: El Estanciero 
+Editorial: Ruibal 
+anio: 1935  
+JugadoresMin: 2
+JugadoresMax: 6 
+Categorias: Estrategia,Economía,Tablero 
+Estado: Disponible
+ 
+2. 
+Titulo: La Generala 
+Editorial: Ruibal 
+anio: 1950  
+JugadoresMin: 2
+JugadoresMax: 6 
+Categorias: Dados,Azar 
+Estado: Disponible
+ 
+3. 
+Titulo: El Truco 
+Editorial: Tradicional (baraja española) 
+anio: 1800  
+JugadoresMin: 2
+JugadoresMax: 6 
+Categorias: Cartas,Engaño,Social 
+Estado: Disponible
+ 
+4. 
+Titulo: T.E.G. (Juego de Estrategia) 
+Editorial: Yetem 
+anio: 1978  
+JugadoresMin: 2
+JugadoresMax: 6 
+Categorias: Estrategia,Conquista,Tablero 
+Estado: Disponible
+

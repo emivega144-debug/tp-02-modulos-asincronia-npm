@@ -3,8 +3,8 @@ const pc = require("picocolors");
 const {leerJuegosJson, carpetaContenedoraTexto} = require("./archivos");
 const { catalogoDeJuegos} = require("./juegos")
 
-const rutaDatos = path.join(__dirname, "../datos/Juegos.json");
-const rutaSalida = path.join(__dirname, "../salida/catalogo-de-juegos.txt");
+const rutaDatos = path.join(__dirname, "../datos/juegos.json");
+const rutaSalida = path.join(__dirname, "../salida/catalogo-juegos.txt");
 
 async function main(){
 try{
