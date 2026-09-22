@@ -16,7 +16,31 @@ Con eso ya queda listo para ejecutar.
 
 ## Ejecución
 
-Una vez instaladas las dependencias, el proyecto se puede correr desde la terminal con npm start. El catalogo se imprime en pantalla y también queda guardado en la carpeta salida en un archivo txt.
+Una vez instaladas las dependencias, el proyecto se puede correr desde la terminal con npm start. El catalogo se imprime en pantalla y también queda guardado en la carpeta 
+salida en un archivo txt.
+
+## Estructura del proyecto
+
+El proyecto se encuentra organizado de la siguiente manera para separar las responsabilidades del sistema:
+
+tp-02-modulos-asincronia-npm/
+│
+├── datos/
+│   └── juegos.json           Archivo JSON con el catálogo de juegos de mesa (datos de entrada)
+│
+├── salida/                   Carpeta generada automáticamente por el programa
+│   └── catalogo-juegos.txt   Informe de texto generado a partir del procesamiento
+│
+├── src/
+│   ├── archivos.js           Módulo exclusivo para la lectura y escritura asíncrona 
+│   ├── juegos.js             Módulo encargado de transformar los datos y armar el formato del informe
+│   └── index.js              Módulo principal que coordina la ejecución, rutas y manejo de errores
+│
+├── .gitignore                Archivos y carpetas ignorados por Git 
+├── package.json              Configuración de NPM, scripts y dependencias del proyecto
+├── package-lock.json         Registro de versiones exactas de las dependencias instaladas
+└── README.md                 Documentación general del proyecto y respuestas conceptuales
+
 
 ## Flujo asincrónico
 
